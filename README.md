@@ -1,1 +1,1 @@
-This is my git directory
+This is my new file
